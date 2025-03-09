@@ -152,7 +152,7 @@ class _CronometroState extends State<Cronometro> with SingleTickerProviderStateM
                 child: Column(
                   children: [
                     SizedBox(
-                      height: 180,
+                      height: 280,
                       width: 190,
                       child: Scrollbar(
                         child: Padding(
